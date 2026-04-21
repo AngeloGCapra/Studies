@@ -1,2 +1,2 @@
-# All-purpose repository for software development and engineering
+# All-purpose Repository for Software Studies
 The purpose of this repository is to study software development, engineering, and architecture.
